@@ -1,0 +1,28 @@
+{
+  "name": "node-light-wifi370",
+  "version": "0.0.1",
+  "description": "Driver for rgb led controller wifi370",
+  "main": "lib/driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b4cedev/node-light-wifi370.git"
+  },
+  "keywords": [
+    "node",
+    "light",
+    "led",
+    "rgb",
+    "wifi370"
+  ],
+  "author": "Stefan Bunse <sb@datenwust.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b4cedev/node-light-wifi370/issues"
+  },
+  "dependencies": {
+    "q": "~1.0.1"
+  }
+}
