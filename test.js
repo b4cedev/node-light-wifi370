@@ -9,8 +9,9 @@
     var Client = require('./lib/driver');
     var client = new Client();
     
-    client.connect()
-        .then(client.turnOn)
+//    client.connect()
+//        .then(client.turnOn)
+    client.turnOn()
 //        .then(client.setLevel.bind(client, 50))
 //        .delay(500)
 //        .then(client.setLevel.bind(client, 150))

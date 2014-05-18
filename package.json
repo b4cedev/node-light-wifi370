@@ -23,6 +23,7 @@
     "url": "https://github.com/b4cedev/node-light-wifi370/issues"
   },
   "dependencies": {
+    "net": "^1.0.2",
     "q": "~1.0.1"
   }
 }
