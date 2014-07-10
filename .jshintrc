@@ -1,0 +1,25 @@
+{
+    "boss": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "forin": true,
+    "immed": true,
+    "jquery": true,
+    "latedef": true,
+    "laxbreak": true,
+    "newcap": true,
+    "noarg": true,
+    "node": true,
+    "sub": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "undefined": false,
+        "require": true,
+        "define": true,
+        "Modernizr": false
+    }
+}
